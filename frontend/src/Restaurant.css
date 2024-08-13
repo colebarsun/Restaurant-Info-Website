@@ -1,0 +1,23 @@
+.restaurant {
+    background: #fff;
+    margin: 10px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .restaurant h3 {
+    margin: 0 0 10px 0;
+    color: #007BFF;
+  }
+  
+  .restaurant p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .restaurant a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  

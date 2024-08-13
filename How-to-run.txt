@@ -1,0 +1,21 @@
+1. Install mongoDB
+
+2. install node
+
+3. Run mongod.exe in program files
+
+4. navigate to project folder backend
+
+5. run server with "node server.js"
+
+6. navigate to frontend in another directory
+
+7. run command "npm install"
+
+8. run command "npm install axios"
+
+9. run frontend with "npm start" 
+
+10. terminal will prompt, select y
+
+11. Should redirect to now running react app in browser
